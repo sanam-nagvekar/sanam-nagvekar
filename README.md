@@ -1,5 +1,5 @@
 [![MasterHead](https://64.media.tumblr.com/4603145ef23d3f4aa4675787475d0174/dbbeb4ce9bf9ce4b-66/s1280x1920/429baf126631f602117b4ed98cd55a9e1c241bcc.gifv)](https://nagvekarsanam.wixsite.com/portfolio)
-## 🪐  Welcome to my World
+## 🪐  Welcome to My World
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://nagvekarsanam.wixsite.com/portfolio) [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/snagvekar/) [<img align="left" alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sanam-nagvekar) [<img align="left" alt="medium" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_tsanami_/)  
 <br />
@@ -16,10 +16,10 @@ Feel free to reach out to learn more about my background and interests!
 💎 Founder of the One Percent App - The Most Hardcore Motivation App Ever Made   
 🚀 B.S. in Aerospace Engineering - Space Enthusiast, Mars Colonizer, and Futurist  
 🤖 Master in Robotics from UC Berkeley - Trying my Very Best to Prevent SkyNet  
-🧠 Unique Skillset for Novel Solutions - ML, VR, iOS App Dev, GFX/VFX and More
+🧠 Unique Skill Set for Novel Solutions - ML, VR, iOS App Dev, GFX/VFX and More
 
-👨‍💻 Learn about me and my projects at - [**Sanam Nagvekar Portfolio**](https://nagvekarsanam.wixsite.com/portfolio)  
-📫 How to reach me - **nagvekar.sanam@gmail.com**
+👨‍💻 Learn more about me and my projects: [**Sanam Nagvekar Portfolio**](https://nagvekarsanam.wixsite.com/portfolio)  
+📫 Have questions? Feel free to email me: **nagvekar.sanam@gmail.com**
 
 
 ### ❮ Languages and Tools ❯
