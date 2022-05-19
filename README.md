@@ -5,7 +5,7 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://nagvekarsanam.wixsite.com/portfolio) [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/snagvekar/) [<img align="left" alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sanam-nagvekar) [<img align="left" alt="medium" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_tsanami_/)  
 <br />
 <br />
-**❝ _Aerospace Engineer and Roboticist by Trade ... Entrepreneur and Innovator at Heart_ ❞**
+**❝ _Roboticist and Aerospace Engineer by Trade ... Entrepreneur and Innovator at Heart_ ❞**
 
 Hi, I'm _Sanam Nagvekar_! Space enthusiast with a UC Berkeley M.Eng. in Robotics and B.S. in Aerospace Engineering! I firmly believe that the more unique skills one learns,
 the more novel engineering products one can produce. Taking this philosophy to heart, I have gone beyond my robotics curriculum to develop a multidisciplinary skillset, ranging from 
